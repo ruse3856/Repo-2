@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A22-02D2
+
+ Directory of C:\Users\Gouse\Desktop\my project
+
+08/16/2023  06:28 PM    <DIR>          .
+08/16/2023  06:28 PM    <DIR>          ..
+08/16/2023  06:28 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  30,614,196,224 bytes free
